@@ -1,0 +1,4 @@
+project:
+  image: spark-course:latest
+  volumes:
+   - .:/app
